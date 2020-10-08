@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 08 21:56:15 CEST 2020
+ExpressionGenerator-1.4-javadoc.jar>=
+ExpressionGenerator-1.4.jar>=
+ExpressionGenerator-1.4.pom>=
+ExpressionGenerator-1.4-sources.jar>=
